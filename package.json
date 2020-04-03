@@ -1,0 +1,16 @@
+{
+  "name": "asynchronous-course",
+  "version": "1.0.0",
+  "description": "Asynchronous course.",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "@sntwandy",
+  "license": "ISC"
+}
