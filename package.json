@@ -4,7 +4,8 @@
   "description": "Asynchronous course.",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callbacks/index.js"
+    "callback": "node src/callbacks/index.js",
+    "callback:challenge": "node src/callbacks/challenge.js"
   },
   "keywords": [
     "callbacks",
